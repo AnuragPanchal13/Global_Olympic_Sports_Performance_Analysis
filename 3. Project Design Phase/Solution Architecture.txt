@@ -1,0 +1,18 @@
+﻿Project Design Phase-I
+Solution Architecture
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 4 Marks
+
+Solution Architecture:
+Solution architecture is a complex process – with many sub-processes – that bridges the gap between business problems and technology solutions. Its goals are to:
+Find the best tech solution to solve existing business problems.
+Describe the structure, characteristics, behavior, and other aspects of the software to project stakeholders.
+Define features, development phases, and solution requirements.
+Provide specifications according to which the solution is defined, managed, and delivered.
+
+Sample Solution Architecture Diagram:
+
+Component Description Table

@@ -1,0 +1,19 @@
+year,host_city,host_country,season,total_athletes,participating_nations,total_medals_awarded,gold_medals_awarded,nations_won_medal,top_country
+1992,Barcelona,Spain,Summer,9356,169,329,107,56,Germany
+1994,Lillehammer,Norway,Winter,1737,67,340,117,47,United States
+1996,Atlanta,United States,Summer,10318,197,326,99,53,United States
+1998,Nagano,Japan,Winter,2176,72,328,105,45,United States
+2000,Sydney,Australia,Summer,10651,200,305,102,55,Germany
+2002,Salt Lake City,United States,Winter,2399,77,342,111,47,United States
+2004,Athens,Greece,Summer,10625,201,348,124,54,United States
+2006,Turin,Italy,Winter,2508,80,313,100,46,China
+2008,Beijing,China,Summer,10942,204,357,109,56,United States
+2010,Vancouver,Canada,Winter,2566,82,339,97,47,China
+2012,London,United Kingdom,Summer,10568,204,324,103,56,China
+2014,Sochi,Russia,Winter,2873,88,342,112,44,United States
+2016,Rio de Janeiro,Brazil,Summer,11238,207,358,125,58,China
+2018,PyeongChang,South Korea,Winter,2922,92,332,114,44,China
+2020,Tokyo,Japan,Summer,11656,206,363,126,60,China
+2022,Beijing,China,Winter,2871,91,326,109,43,China
+2024,Paris,France,Summer,10714,204,319,104,52,China
+2026,Milan-Cortina,Italy,Winter,3000,95,334,95,47,United States

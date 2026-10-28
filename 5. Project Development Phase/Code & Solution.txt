@@ -1,0 +1,36 @@
+﻿Snowflake Project – Data Engineering & SQL Solution
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 5 Marks
+
+This section evaluates the quality and completeness of the implemented Snowflake solution. The submission should demonstrate that the data has been prepared, cleaned, transformed, validated, and made ready for downstream analysis..
+Instructions
+Ensure SQL scripts are well-structured, clearly organized, and follow appropriate SQL practices.
+The solution should address the project requirements through the required data preparation and transformation steps.
+Include all SQL scripts, table/view definitions, and setup information needed to reproduce the solution.
+Provide evidence that the final Snowflake data is accurate, consistent, and ready for analysis.
+Solution Summary
+
+Field | Details
+Project / Repository Link | [Paste GitHub / GitLab / hosted link here]
+Data Source(s) Link | Details or link to the source dataset/database used for the project.
+Database | Name of the Snowflake database used to store and manage the project data.
+Warehouse | Name and size of the Snowflake virtual warehouse used to process and analyze the data.
+Tables / Views Created | List of the Snowflake tables and views created or used for the project.
+Key Transformations / Calculations | Summary of the key SQL transformations and calculations applied to prepare and analyze the data.
+KPIs created | Summary of the key business metrics, KPIs, dashboards, and analytical outputs delivered.
+Key Insights | Summary of the key findings and meaningful business insights identified from the Snowflake analysis and dashboards.
+
+Snowflake Quality Checklist
+
+S.No | Criteria | Status (Yes / No)
+1 | Required data is successfully loaded and accessible in Snowflake | 
+2 | Data is cleaned, transformed, and prepared appropriately | 
+3 | Required tables, views, and data relationships are correctly implemented | 
+4 | Required SQL logic, calculations, and KPIs are correctly implemented | 
+5 | Data and solution outputs are validated against the project requirements | 
+6 | Solution is properly organized, documented, and functional | 
+
+Additional Notes / Comments:

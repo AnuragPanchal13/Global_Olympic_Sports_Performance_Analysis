@@ -1,0 +1,19 @@
+﻿Story
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 5 Marks
+
+By using stories in Tableau, you can effectively communicate complex data in a way that is both interactive and engaging, making it easier for the audience to follow along and understand the insights. It’s a tool for data storytelling, allowing you to present insights in a cohesive, engaging way that takes viewers through a logical progression of findings or analyses.
+In Tableau, Story is a feature that allows you to create a sequence of dashboards, visualizations, and text to present data insights in a cohesive and narrative-driven way. It's like a slideshow within Tableau that guides the audience through a series of data points, helping them understand key insights, trends, or outcomes of your analysis.
+
+Observations:
+Technology Category Leads in Profit: The Technology category is generating the highest profit among all categories.
+Seasonal Sales Trend: Sales peak in November, while February sees the lowest sales, indicating a possible seasonal trend.
+Consumer Segment Dominates: The Consumer segment contributes to the highest percentage of sales, accounting for 50.56%.
+Top Revenue-Generating Product: Chairs from the Furniture category generate the highest revenue, totaling 1.66M.
+
+Activity 2:
+Publish Story on Tableau Public and Paste Public link below
+https://public.tableau.com/views/SalesStory_17247663658720/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link

@@ -1,0 +1,61 @@
+country,noc_code,region,games_entered,total_gold,total_silver,total_bronze,total_medals,total_medal_points,avg_efficiency_pct,summer_medals,winter_medals,overall_rank
+United States,USA,North America,18,250,208,277,735,1443,13.28,355,380,1
+China,CHN,Asia,18,230,230,236,696,1386,13.67,350,346,2
+Russia,RUS,Europe,18,130,150,149,429,839,13.08,214,215,3
+Great Britain,GBR,Europe,18,120,138,143,401,779,13.53,214,187,4
+Germany,GER,Europe,18,116,103,117,336,671,12.77,177,159,5
+Australia,AUS,Oceania,18,101,89,90,280,571,13.11,135,145,6
+Japan,JPN,Asia,18,98,101,109,308,605,12.97,151,157,7
+France,FRA,Europe,18,86,88,86,260,520,14.04,119,141,8
+Netherlands,NED,Europe,18,63,51,36,150,327,11.61,67,83,9
+Canada,CAN,North America,18,60,42,56,158,320,15.3,62,96,10
+Italy,ITA,Europe,18,59,64,75,198,380,13.62,88,110,11
+South Korea,KOR,Asia,18,58,56,76,190,362,14.2,82,108,12
+Hungary,HUN,Europe,18,48,51,53,152,299,12.99,64,88,13
+Norway,NOR,Europe,18,35,41,55,131,242,13.73,44,87,14
+Belarus,BLR,Europe,17,18,19,12,49,104,32.51,24,25,15
+Morocco,MAR,Africa,16,17,15,8,40,89,60.83,21,19,16
+Azerbaijan,AZE,Europe/Asia,18,17,19,12,48,101,39.21,24,24,17
+Argentina,ARG,South America,17,16,6,17,39,77,32.0,21,18,18
+Estonia,EST,Europe,18,16,16,9,41,89,41.36,19,22,19
+Latvia,LAT,Europe,17,16,11,20,47,90,60.29,26,21,20
+Greece,GRE,Europe,17,16,11,15,42,85,19.33,20,22,21
+Czech Republic,CZE,Europe,14,16,18,15,49,99,56.56,29,20,22
+South Africa,RSA,Africa,16,15,8,10,33,71,46.08,17,16,23
+Mongolia,MGL,Asia,16,15,7,15,37,74,30.49,18,19,24
+Uzbekistan,UZB,Asia,18,15,10,15,40,80,32.35,23,17,25
+Lithuania,LTU,Europe,16,15,14,21,50,94,16.48,24,26,26
+Bahrain,BRN,Asia,17,14,15,15,44,87,44.6,19,25,27
+Belgium,BEL,Europe,18,14,11,13,38,77,15.38,19,19,28
+Georgia,GEO,Europe/Asia,16,14,7,16,37,72,39.83,23,14,29
+Switzerland,SUI,Europe,13,14,12,3,29,69,28.35,16,13,30
+Sweden,SWE,Europe,15,12,13,10,35,72,15.81,18,17,31
+Poland,POL,Europe,17,12,12,19,43,79,58.02,24,19,32
+Ukraine,UKR,Europe,15,12,10,15,37,71,34.8,21,16,33
+Uganda,UGA,Africa,17,12,12,18,42,78,36.91,19,23,34
+New Zealand,NZL,Oceania,17,12,9,19,40,73,43.33,21,19,35
+Kazakhstan,KAZ,Asia,17,12,15,14,41,80,31.47,19,22,36
+Slovakia,SVK,Europe,18,12,15,18,45,84,20.95,24,21,37
+Iran,IRI,Asia,15,12,11,14,37,72,68.81,13,24,38
+Finland,FIN,Europe,16,11,12,15,38,72,59.08,19,19,39
+Croatia,CRO,Europe,16,11,17,12,40,79,47.39,21,19,40
+Spain,ESP,Europe,14,11,10,13,34,66,15.15,16,18,41
+Austria,AUT,Europe,15,11,11,19,41,74,59.46,21,20,42
+Armenia,ARM,Europe/Asia,15,10,4,11,25,49,42.97,13,12,43
+Turkey,TUR,Europe/Asia,15,10,13,11,34,67,63.68,13,21,44
+Romania,ROU,Europe,16,10,7,15,32,59,27.64,13,19,45
+Mexico,MEX,North America,17,9,21,15,45,84,51.99,19,26,46
+Denmark,DEN,Europe,16,9,13,22,44,75,32.95,20,24,47
+India,IND,Asia,9,8,9,6,23,48,24.95,23,0,48
+Brazil,BRA,South America,8,7,5,6,18,37,63.39,18,0,49
+Colombia,COL,South America,9,7,7,12,26,47,70.73,26,0,50
+Kenya,KEN,Africa,9,7,3,5,15,32,9.4,15,0,51
+Dominican Republic,DOM,North America,8,7,2,7,16,32,14.66,16,0,52
+Cuba,CUB,North America,8,6,11,6,23,46,64.95,23,0,53
+Indonesia,INA,Asia,8,5,2,4,11,23,9.11,11,0,54
+Slovenia,SLO,Europe,17,5,13,13,31,54,11.16,16,15,55
+Philippines,PHI,Asia,9,4,7,12,23,38,108.3,23,0,56
+Thailand,THA,Asia,8,4,10,13,27,45,18.82,27,0,57
+Ethiopia,ETH,Africa,7,3,7,7,17,30,51.32,17,0,58
+North Korea,PRK,Asia,15,3,14,22,39,59,38.47,19,20,59
+Jamaica,JAM,North America,8,3,11,2,16,33,9.96,16,0,60

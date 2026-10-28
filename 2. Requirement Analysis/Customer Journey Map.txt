@@ -1,0 +1,20 @@
+SMARTBRIDGE (Let's Bridge the Gap)
+SKILL WALLET (A SmartBridge Product)
+
+Customer Journey Map
+
+Date | 15 March 2026
+Team ID | xxxxxx
+Project Name | xxxxxx
+Maximum Marks | 2 Marks
+
+Customer Journey Map
+Map out the customer's experience stage-by-stage, capturing their actions, touchpoints, thoughts, and feelings, along with process ownership and improvement opportunities at each stage.
+
+Phase of Journey | Stage 1 | Stage 2 | Stage 3
+Actions (What does the customer do?) | • • • | • • • | • • •
+Touchpoint (What part of the service do they interact with?) | • • • | • • • | • • •
+Customer Thought (What is the customer thinking?) | • • • | • • • | • • •
+Customer Feeling (What is the customer feeling?) | | |
+Process Ownership (Who is in the lead on this?) | | |
+Opportunities (How can we improve this stage?) | • • • | • • • | • • •

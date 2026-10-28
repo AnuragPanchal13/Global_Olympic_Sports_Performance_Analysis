@@ -1,0 +1,18 @@
+Project Design Phase-II
+Technology Stack (Architecture & Stack)
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 2 Marks
+
+Define Your Technology Stack:
+Identify the technologies, platforms, databases, BI tools, and integrations that you will use to build your Business Intelligence solution. A well-chosen technology stack helps ensure that the solution is scalable, maintainable, secure, and suitable for data analysis and reporting requirements.
+
+S.No | Component | Description | Technology | Justification / Purpose
+1. | Programming / Query Language | Language used to query, filter, transform, aggregate, and analyze data. | Python, SQL HTML, CSS, etc | 
+2. | Database / Data Warehouse | Warehouse Used to store and manage structured business data for analysis and reporting. | Snowflake / MySQL / Excel / CSV | 
+3. | Data Ingestion | Used to load data from source files or external systems into the analytical environment. | Snowflake Stages / COPY INTO / Tableau Data Connections | 
+4. | Data Transformation and Business  Logic | Tools/Logic used to clean, join, filter, aggregate, data for analysis and calculate KPIs, metrics, business rules, and analytical measures. | Eg. Tableau prep, Snowflake SQL, Tableau Desktop | 
+5. | Data Visualization / Analytics | Used to create interactive dashboards, charts, reports, KPIs, and visual analysis. | Snowflake SQl Charts, Tableau , Python | 
+6. | Front-End / User Interface | Interface through which users interact with dashboards, filters, parameters, and visual insights. | Tableau Public, Flask,Streamlit |

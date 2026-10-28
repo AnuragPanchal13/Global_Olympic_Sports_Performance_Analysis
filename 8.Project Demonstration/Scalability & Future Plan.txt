@@ -1,0 +1,31 @@
+﻿SMARTBRIDGE (Let's Bridge the Gap)
+SKILL WALLET (A SmartBridge Product)
+
+Scalability & Future Plan
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 1 Mark
+
+Scalability & Future Plan:
+This document outlines how the current project solution can be scaled to handle larger user bases, increased data loads, or extended features in the future. It also captures the team's roadmap for enhancing and evolving the project beyond its current state.
+
+Current System Limitations:
+S.No | Limitation | Impact | Priority to Address (High / Medium / Low)
+1 | | | 
+2 | | | 
+3 | | | 
+
+Scalability Plan:
+S.No | Scalability Aspect | Current State | Proposed Upgrade / Solution
+1 | User Load | | 
+2 | Data Storage | | 
+3 | Performance | | 
+4 | Security | | 
+
+Future Roadmap:
+Phase | Planned Feature / Enhancement | Target Timeline | Expected Impact
+Phase 2 | | | 
+Phase 3 | | | 
+Phase 4 | | |

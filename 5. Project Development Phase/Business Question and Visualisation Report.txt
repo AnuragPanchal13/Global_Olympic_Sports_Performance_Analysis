@@ -1,0 +1,22 @@
+﻿Business Question and Visualization Report
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 5 Marks
+
+Visualization development refers to the process of creating graphical representations of data to facilitate understanding, analysis, and decision-making. The goal is to transform complex datasets into visual formats that are easy to interpret, enabling users to gain insights and make informed decisions. Visualization development involves selecting appropriate visual elements, designing layouts, and using interactive features to enhance the user experience. This process is commonly associated with data visualization tools and platforms, and it plays a crucial role in business intelligence, analytics, and reporting
+Business Questions and Visualisation
+The process involves defining specific business questions to guide the creation of meaningful and actionable visualizations in Tableau. Well-framed questions help in identifying key metrics, selecting relevant data, and building visualisation that provide insights.
+Sample
+1. What are the monthly sales trends?
+Visualization: Line chart showing monthly sales trends.
+Screenshot of visualisation
+Which products have the highest revenue?
+Visualization: Bar chart comparing revenue by product
+Screenshot of visualisation
+How is customer satisfaction varying across regions?
+Visualization: Map visualization showing customer satisfaction by region.
+Screenshot of visualisation
+
+Note: Min 8 business question and visualisations Required inform of above

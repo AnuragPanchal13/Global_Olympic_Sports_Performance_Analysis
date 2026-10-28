@@ -1,0 +1,32 @@
+﻿Dashboard Design
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 5  Marks
+
+Creating an effective dashboard involves thoughtful design to ensure that the presented information is clear, relevant, and easily understandable for the intended audience. Here are some key principles and best practices for dashboard design
+Activity 1: Interactive and visually appealing dashboards
+Creating interactive and visually appealing dashboards involves a combination of thoughtful design, effective use of visual elements, and the incorporation of interactive features. Here are some tips to help you design dashboards that are both visually appealing and engaging for users  so take care of below points
+Clear and Intuitive Layout
+Use Appropriate Visualizations
+Colour and Theming
+Interactive Filters and Slicers
+Drill-Down Capabilities
+Responsive Design
+Custom Visuals and Icons
+Use of Infographics
+
+Note: Highlight the major outcomes in form of bullet points
+Sample:
+Here are five potential outcomes from the dashboard image provided:
+Customer Count and Sales Overview:The dashboard reports a total of 9,994 customers, with cumulative sales of 2.30M, a profit of 286.40K, and revenue of 11.49M. These figures highlight the overall scale and profitability of the store’s operations.
+Highest Sales: Copiers and Machines are the top-selling products, with sales values of 2.199M and 1.646M, respectively. This suggests strong demand or high price points for these products.
+Peak Month: December has the highest monthly sales at 352.46K, likely due to holiday shopping.
+Seasonal Sales Growth:The monthly sales chart shows growth in specific months, such as March, September, October, and December, likely influenced by seasonal factors and sales events.
+Sales Distribution Across Segments: The Consumer segment leads with 0.41M in sales, followed by Corporate at 0.25M, and Home Office at the lowest
+
+Activity 2
+Publish Dashboard on Tableau Public and Paste the Dashboard Public link below:
+Example
+https://public.tableau.com/views/SalesDashboard_17247660582000/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link

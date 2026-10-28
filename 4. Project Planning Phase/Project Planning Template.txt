@@ -1,0 +1,49 @@
+﻿Project Planning Phase
+Project Planning Template (Product Backlog, Sprint Planning, Stories, Story points)
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 8 Marks
+
+Product Backlog, Sprint Schedule, and Estimation (4 Marks)
+Use the below template to create product backlog and sprint schedule
+
+Sprint | Functional Requirement (Epic) | User Story Number | User Story / Task | Story Points | Priority | Team Members
+Sprint-1 | Registration | USN-1 | As a user, I can register for the application by entering my email, password, and confirming my password. | 2 | High | 
+Sprint-1 |  | USN-2 | As a user, I will receive confirmation email once I have registered for the application | 1 | High | 
+Sprint-2 |  | USN-3 | As a user, I can register for the application through Facebook | 2 | Low | 
+Sprint-1 |  | USN-4 | As a user, I can register for the application through Gmail | 2 | Medium | 
+Sprint-1 | Login | USN-5 | As a user, I can log into the application by entering email & password | 1 | High | 
+ | Dashboard |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+
+Project Tracker, Velocity & Burndown Chart: (4 Marks)
+
+Sprint | Total Story Points | Duration | Sprint Start Date | Sprint End Date (Planned) | Story Points Completed (as on Planned End Date) | Sprint Release Date (Actual)
+Sprint-1 | 20 | 6 Days | 24 Oct 2022 | 29 Oct 2022 | 20 | 29 Oct 2022
+Sprint-2 | 20 | 6 Days | 31 Oct 2022 | 05 Nov 2022 |  | 
+Sprint-3 | 20 | 6 Days | 07 Nov 2022 | 12 Nov 2022 |  | 
+Sprint-4 | 20 | 6 Days | 14 Nov 2022 | 19 Nov 2022 |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+
+Velocity:
+Imagine we have a 10-day sprint duration, and the velocity of the team is 20 (points per sprint). Let’s calculate the team’s average velocity (AV) per iteration unit (story points per day)
+
+Burndown Chart:
+A burn down chart is a graphical representation of work left to do versus time. It is often used in agile software development methodologies such as Scrum. However, burn down charts can be applied to any project containing measurable progress over time.
+
+https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
+https://www.atlassian.com/agile/tutorials/burndown-charts
+
+Reference:
+https://www.atlassian.com/agile/project-management
+https://www.atlassian.com/agile/tutorials/how-to-do-scrum-with-jira-software
+https://www.atlassian.com/agile/tutorials/epics
+https://www.atlassian.com/agile/tutorials/sprints
+https://www.atlassian.com/agile/project-management/estimation
+https://www.atlassian.com/agile/tutorials/burndown-charts

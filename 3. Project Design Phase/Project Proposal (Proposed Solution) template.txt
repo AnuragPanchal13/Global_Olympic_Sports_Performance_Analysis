@@ -1,0 +1,33 @@
+﻿Project Initialization and Planning Phase
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Title | Global Olympic Sports Performance Analysis
+Maximum Marks | 3 Marks
+
+Project Proposal (Proposed Solution) template
+This project proposal outlines a solution to address a specific problem. With a clear objective, defined scope, and a concise problem statement, the proposed solution details the approach, key features, and resource requirements, including hardware, software, and personnel.
+
+Project Overview
+Objective | Clearly state the project's primary objective
+Scope | Define the boundaries and extent of the project
+Problem Statement
+Description | Clearly articulate the problem to be addressed
+Impact | Explain the implications of solving the problem
+Proposed Solution
+Approach | Outline the methodology and techniques to be used
+Key Features | Highlight the unique aspects of the proposed solution
+
+Resource Requirements
+
+Resource Type | Description | Specification/Allocation
+Hardware
+Computing Resources | CPU/GPU specifications, number of cores | e.g., 2 x NVIDIA V100 GPUs
+Memory | RAM specifications | e.g., 8 GB
+Storage | Disk space for data, models, and logs | e.g., 1 TB SSD
+Software
+Frameworks | Python frameworks | e.g., Flask
+Libraries | Additional libraries | e.g., scikit-learn, pandas, numpy
+Development Environment | IDE, version control | e.g., Jupyter Notebook, Git
+Data
+Data | Source, size, format | e.g., Kaggle dataset, 10,000 images

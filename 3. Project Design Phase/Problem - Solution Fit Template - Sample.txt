@@ -1,0 +1,51 @@
+﻿Problem-Solution fit canvas 2.0
+Purpose / Vision:
+
+1. CUSTOMER SEGMENT(S) [CS]
+(Define CS, fit into CC)
+Who is your customer?
+i.e. working parents of 0-5 y.o. kids
+
+2. JOBS-TO-BE-DONE / PROBLEMS [J&P]
+(Focus on J&P, tap into BE, understand RC)
+Which jobs-to-be-done (or problems) do you address for your customers?
+There could be more than one; explore different sides.
+
+3. TRIGGERS [TR]
+(Identify strong TR & EM)
+What triggers customers to act? i.e. seeing their neighbour installing solar panels, reading about a more efficient solution in the news.
+
+4. EMOTIONS: BEFORE / AFTER [EM]
+How do customers feel when they face a problem or a job and afterwards?
+i.e. lost, insecure > confident, in control - use it in your communication strategy & design.
+
+5. AVAILABLE SOLUTIONS [AS]
+(Explore AS, differentiate)
+Which solutions are available to the customers when they face the problem or need to get the job done? What have they tried in the past? What pros & cons do these solutions have? i.e. pen and paper is an alternative to digital notetaking
+
+6. CUSTOMER CONSTRAINTS [CC]
+What constraints prevent your customers from taking action or limit their choices of solutions? i.e. spending power, budget, no cash, network connection, available devices.
+
+7. BEHAVIOUR [BE]
+What does your customer do to address the problem and get the job done?
+i.e. directly related: find the right solar panel installer, calculate usage and benefits;
+indirectly associated: customers spend free time on volunteering work (i.e. Greenpeace)
+
+8. CHANNELS of BEHAVIOUR [CH]
+(Extract online & offline CH of BE)
+8.1 ONLINE
+What kind of actions do customers take online? Extract online channels from #7
+8.2 OFFLINE
+What kind of actions do customers take offline? Extract offline channels from #7 and use them for customer development.
+
+9. PROBLEM ROOT CAUSE [RC]
+What is the real reason that this problem exists?
+What is the back story behind the need to do this job?
+i.e. customers have to do it because of the change in regulations.
+
+10. YOUR SOLUTION [SL]
+If you are working on an existing business, write down your current solution first, fill in the canvas, and check how much it fits reality.
+If you are working on a new business proposition, then keep it blank until you fill in the canvas and come up with a solution that fits within customer limitations, solves a problem and matches customer behaviour.
+
+Problem-Solution fit canvas is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 license
+Created by Daria Nepriakhina / Amaltama.com

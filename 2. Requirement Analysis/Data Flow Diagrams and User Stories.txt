@@ -1,0 +1,36 @@
+Project Design Phase-II
+Data Flow Diagram & User Stories
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 4 Marks
+
+Data Flow Diagrams:
+A Data Flow Diagram (DFD) is a traditional visual representation of the information flows within a system. A neat and clear DFD can depict the right amount of the system requirement graphically. It shows how data enters and leaves the system, what changes the information, and where data is stored.
+DFD Symbol Legend
+
+Symbol | Name | Description
+Oval / Rounded shape | External Entity | A person, organization, or system outside the project that sends or receives data (e.g., Customer, Payment Gateway).
+Rectangle with numbered header | Process | An activity that transforms incoming data into outgoing data (e.g., Validate Request, Process Order).
+Rectangle (solid fill, no number) | Data Store | A place where data is held for later use (e.g., Customer Database, Inventory).
+Labeled arrow | Data Flow | The movement of data between entities, processes, and data stores, labeled with what data is being passed.
+
+Example: DFD Level 0 (Industry Standard)
+
+User Stories
+Use the below template to list all the user stories for the product.
+
+User Type | Functional Requirement (Epic) | User Story Number | User Story / Task | Acceptance criteria | Priority | Release
+Customer (Mobile user) | Registration | USN-1 | As a user, I can register for the application by entering my email, password, and confirming my password. | I can access my account / dashboard | High | Sprint-1
+ |  | USN-2 | As a user, I will receive confirmation email once I have registered for the application | I can receive confirmation email & click confirm | High | Sprint-1
+ |  | USN-3 | As a user, I can register for the application through Facebook | I can register & access the dashboard with Facebook Login | Low | Sprint-2
+ |  | USN-4 | As a user, I can register for the application through Gmail |  | Medium | Sprint-1
+ | Login | USN-5 | As a user, I can log into the application by entering email & password |  | High | Sprint-1
+ | Dashboard |  |  |  |  | 
+Customer (Web user) |  |  |  |  |  | 
+Customer Care Executive |  |  |  |  |  | 
+Administrator |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  |

@@ -1,0 +1,29 @@
+Project Design Phase-II
+Solution Requirements (Functional & Non-functional)
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 4 Marks
+
+Functional Requirements:
+Following are the functional requirements of the proposed solution.
+
+FR No. | Functional Requirement (Epic) | Sub Requirement (Story / Sub-Task) | Priority (High/Medium/Low)
+1 | Data Access & Integration | [Specify what business data the solution should access or integrate to address the use case.] | 
+2 | Data Processing | [Specify what data preparation, transformation, or processing is required for the use case.] | 
+3 | Business Analysis | [What business calculations, KPIs, metrics, aggregations, or analysis are required to answer the use-case questions. .] | 
+4 | Business Insights & Analytical Outputs | [What insights, analytical outputs, dashboards, visualizations, reports, or result sets the solution should provide. .] | 
+5 | User Interaction & Analysis | [Specify how users should filter, compare, drill down, or explore information relevant to the use case.] | 
+6 | Data Update & Reporting | [Specify how the solution should provide updated information and generate the required business outputs for the use case.] | 
+
+Non-functional Requirements:
+Following are the non-functional requirements of the proposed solution.
+
+FR No. | Non-Functional Requirement | Description
+NFR-1 | Usability | 
+NFR-2 | Security | 
+NFR-3 | Reliability | 
+NFR-4 | Performance | 
+NFR-5 | Availability | 
+NFR-6 | Scalability |

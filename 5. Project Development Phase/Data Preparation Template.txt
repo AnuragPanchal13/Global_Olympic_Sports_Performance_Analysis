@@ -1,0 +1,24 @@
+﻿Data Preparation
+
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 5 Marks
+
+Data preparation refers to the process of cleaning, standardizing, transforming, and organizing data so that it is suitable for analysis and reporting. In a Snowflake project, data preparation involves working with the ingested RAW data, identifying data quality issues, creating STAGING tables, applying required transformations, and preparing reliable data for the CURATED and MART layers.
+
+Activity 1: Identifying and Handling  Null Values
+
+Identify the NULL or missing values present in the Snowflake dataset, analyze the affected columns, determine the appropriate approach for handling them based on the data and business requirements, apply the required query, and validate the cleaned data to ensure it is ready for further analysis and visualization.
+[Give Codes with Output]
+Activity 2: Duplicate Record Handling 
+
+Identify and analyze duplicate records in the Snowflake dataset, determine whether the duplicates are genuine or repeated entries, define the appropriate criteria for identifying duplicates, remove or retain records based on the project requirements, and validate the dataset after treatment to ensure that duplicate records do not affect the accuracy of further analysis and visualizations.
+[Give Codes with Output]
+Activity 3: Data Cleaning and Standardization 
+
+Identify and correct inconsistencies, invalid entries, formatting issues, and data quality problems in the Snowflake dataset, standardize values and formats across relevant columns, apply the required SQL-based cleaning and transformation steps, and validate the cleaned and standardized dataset to ensure consistency, accuracy, and readiness for further analysis and  visualization.
+[Give Codes with Output]
+Activity 4: Data Transformation and Validation
+Apply the required data transformations to prepare the cleaned data for analysis and modelling. Create necessary derived fields, apply business rules, filter or transform records where required, and validate the prepared data and other relevant quality checks before using it for the CURATED and MART layers.
+[Give Codes with Output]

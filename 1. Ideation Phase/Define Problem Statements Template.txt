@@ -1,0 +1,16 @@
+﻿Ideation Phase
+Define the Problem Statements
+Date | 25 October 2026
+Team ID | EN25CS3010179
+Project Name | Global Olympic Sports Performance Analysis
+Maximum Marks | 2 Marks
+
+Customer Problem Statement Template:
+Create a problem statement to understand your customer's point of view. The Customer Problem Statement template helps you focus on what matters to create experiences people will love.
+A well-articulated customer problem statement allows you and your team to find the ideal solution for the challenges your customers face. Throughout the process, you’ll also be able to empathize with your customers, which helps you better understand how they perceive your product or service.
+Reference: https://miro.com/templates/customer-problem-statement/
+Example:
+Problem Statement (PS) | I am (Customer) | I’m trying to | But | Because | Which makes me feel
+PS-1 |  |  |  |  | 
+PS-2 |  |  |  |  | 
+
