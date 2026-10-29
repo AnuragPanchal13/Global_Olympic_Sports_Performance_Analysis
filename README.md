@@ -7,6 +7,8 @@ An end-to-end interactive sports analytics project analyzing historical Olympic 
 ## 📌 Project Links
 
 * **Live Tableau Public Dashboard**: [View on Tableau Public](https://public.tableau.com/views/GlobalOlympicSportsPerformanceAnalysis_17930317215980/Dashboard1GlobalPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+*  **Live Tableau Public Dashboard**: [View on Tableau Public](https://public.tableau.com/views/GlobalOlympicSportsPerformanceAnalysis_17930317215980/Dashboard1GlobalPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Author**: Anurag Malasa
 * **Author**: Anurag Malasa
 
 ---
