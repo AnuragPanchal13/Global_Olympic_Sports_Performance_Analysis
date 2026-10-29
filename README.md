@@ -81,9 +81,10 @@ Custom metrics created in Tableau:
 ├── 7.Project Documentation/
 │   └── project_report.md
 ├── 8.Project Demonstration/
-├── alltime_country_rankings.csv
-├── athletes.csv
-├── games_summary.csv
-├── medal_results.csv
+├── Dataset/
+│   ├── alltime_country_rankings.csv
+│   ├── athletes.csv
+│   ├── games_summary.csv
+│   └── medal_results.csv
 ├── index.html
 └── README.md
